@@ -1,1 +1,0 @@
-sc_serv.exe setup
